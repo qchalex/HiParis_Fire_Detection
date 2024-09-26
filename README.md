@@ -1,4 +1,4 @@
-# **HiParis_Fire_Detection**  
+# **Hi!Paris Fire Detection**  
 ## **Fire Detection using YOLOv8**
 
 ### **Introduction**
