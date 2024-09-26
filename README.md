@@ -4,7 +4,7 @@
 ### **Introduction**
 This project focuses on detecting **smoke and fire** in forest environments using advanced object detection techniques. Various models were explored, including **YOLOv5**, **Faster R-CNN**, and **YOLOv8**. After rigorous testing, **YOLOv8** was selected for its **superior speed and accuracy**, making it the optimal choice for real-time fire detection in complex environments.
 
-The model was trained on a specialized dataset containing labeled images of **forest fires**, allowing it to efficiently detect early signs of fire outbreaks, crucial for preventing large-scale forest fires.
+The model was trained on a specialized dataset containing labeled images of **forest fires**, enabling it to efficiently detect early signs of fire outbreaks—crucial for preventing large-scale forest fires.
 
 ---
 
@@ -20,6 +20,7 @@ The project is organized into the following key components:
 ---
 
 ### **Installation**
-To get started, make sure you have **Python 3.10.12** installed, then install the necessary dependencies by running:
+To get started, ensure you have **Python 3.10.12** installed. Then, install the necessary dependencies by running:
+
 ```bash
 pip install -r requirements.txt
